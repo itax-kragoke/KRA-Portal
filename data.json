@@ -498,15 +498,5 @@
     "totalTaxAmount": "36,000.00",
     "totalInvoiceAmount": "225,000.00",
     "supplierName": "Hills Country Lodge Limited"
-  },
-  {
-    "id": "051",
-    "controlUnitInvoiceNumber": "0040240090000001005",
-    "traderSystemInvoiceNo": "139903864209854",
-    "invoiceDate": "2025-06-30",
-    "totalTaxableAmount": "77,700.00",
-    "totalTaxAmount": "14,800.00",
-    "totalInvoiceAmount": "92,500.00",
-    "supplierName": "Shruti Enterprises Limited"
   }
 ]
