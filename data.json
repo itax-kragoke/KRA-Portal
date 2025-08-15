@@ -498,5 +498,15 @@
     "totalTaxAmount": "36,000.00",
     "totalInvoiceAmount": "225,000.00",
     "supplierName": "Hills Country Lodge Limited"
+  },
+  {
+    "id": "051",
+    "controlUnitInvoiceNumber": "004024009000000853",
+    "traderSystemInvoiceNo": "139903864209854",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "831,600.00",
+    "totalTaxAmount": "158,400.00",
+    "totalInvoiceAmount": "990,000.00",
+    "supplierName": "Sirikwa Hotel Ltd"
   }
 ]
