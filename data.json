@@ -518,5 +518,215 @@
     "totalTaxAmount": "78,800.00",
     "totalInvoiceAmount": "480,000.00",
     "supplierName": "Superlink Connect Ltd"
+  },
+  {
+    "id": "053",
+    "controlUnitInvoiceNumber": "004024009000000605",
+    "traderSystemInvoiceNo": "139903864209854",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "231,000.00",
+    "totalTaxAmount": "44,000.00",
+    "totalInvoiceAmount": "275,000.00",
+    "supplierName": "Janjan Enterprises limited"
+  },
+  {
+    "id": "055",
+    "controlUnitInvoiceNumber": "004024009000001150",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "210,000.00",
+    "totalTaxAmount": "40,000.00",
+    "totalInvoiceAmount": "250,000.00",
+    "supplierName": "DD Communications Limited"
+  },
+    {
+    "id": "056",
+    "controlUnitInvoiceNumber": "004024009000001151",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "168,000.00",
+    "totalTaxAmount": "32,000.00",
+    "totalInvoiceAmount": "200,000.00",
+    "supplierName": "DD Communications Limited"
+  },
+    {
+    "id": "057",
+    "controlUnitInvoiceNumber": "004024009000000895",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "138,080.00",
+    "totalTaxAmount": "25,920.00",
+    "totalInvoiceAmount": "162,000.00",
+    "supplierName": "Elubay Investments Limited"
+  },
+    {
+    "id": "058",
+    "controlUnitInvoiceNumber": "004024009000001620",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "92,400.00",
+    "totalTaxAmount": "17,600.00",
+    "totalInvoiceAmount": "110,000.00",
+    "supplierName": "Under Simtom Enterprises"
+  },
+    {
+    "id": "059",
+    "controlUnitInvoiceNumber": "004024009000001400",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "168,000.00",
+    "totalTaxAmount": "32,000.00",
+    "totalInvoiceAmount": "200,000.00",
+    "supplierName": "Broadpark Hotel"
+  },
+    {
+    "id": "060",
+    "controlUnitInvoiceNumber": "004024009000000263",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Kariobangi Social Hall"
+  },
+    {
+    "id": "061",
+    "controlUnitInvoiceNumber": "004024009000001143",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Makadara Social Hall"
+  },
+    {
+    "id": "062",
+    "controlUnitInvoiceNumber": "004024009000001650",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Imara Social Hall"
+  },
+    {
+    "id": "063",
+    "controlUnitInvoiceNumber": "004024009000001264",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Komarock Social Hall"
+  },
+    {
+    "id": "064",
+    "controlUnitInvoiceNumber": "004024009000000975",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "13,440.00",
+    "totalTaxAmount": "2,560.00",
+    "totalInvoiceAmount": "16,000.00",
+    "supplierName": "Kamukunji Social Hall"
+  },
+    {
+    "id": "065",
+    "controlUnitInvoiceNumber": "004024009000001102",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Dandora Social Hall"
+  },
+    {
+    "id": "066",
+    "controlUnitInvoiceNumber": "004024009000001186",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Kware Social Hall"
+  },
+    {
+    "id": "067",
+    "controlUnitInvoiceNumber": "004024009000001208",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Mathare North Social Hall"
+  },
+    {
+    "id": "068",
+    "controlUnitInvoiceNumber": "004024009000001250",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Githurai Social Hall"
+  },
+    {
+    "id": "069",
+    "controlUnitInvoiceNumber": "004024009000001380",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Kibera Social Hall"
+  },
+    {
+    "id": "070",
+    "controlUnitInvoiceNumber": "004024009000001764",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Kiber Social Hall"
+  },
+    {
+    "id": "071",
+    "controlUnitInvoiceNumber": "004024009000001375",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Dagoretti Social Hall"
+  },
+    {
+    "id": "072",
+    "controlUnitInvoiceNumber": "004024009000001380",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Dagoretti Social Hall"
+  },
+    {
+    "id": "073",
+    "controlUnitInvoiceNumber": "004024009000001208",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "Mathare North Social Hall"
+  },
+    {
+    "id": "074",
+    "controlUnitInvoiceNumber": "004024009000000123",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "13,440.00",
+    "totalTaxAmount": "2,560.00",
+    "totalInvoiceAmount": "16,000.00",
+    "supplierName": "Mathare Social Hall"
   }
 ]
