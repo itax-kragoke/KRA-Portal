@@ -728,5 +728,35 @@
     "totalTaxAmount": "2,560.00",
     "totalInvoiceAmount": "16,000.00",
     "supplierName": "Mathare Social Hall"
+  },
+  {
+    "id": "075",
+    "controlUnitInvoiceNumber": "0040240090000005421",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Tonishoots Media"
+  },
+  {
+    "id": "076",
+    "controlUnitInvoiceNumber": "0040240090000005450",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Tonishoots Media"
+  },
+  {
+    "id": "077",
+    "controlUnitInvoiceNumber": "004024009000005455",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Tonishoots Media"
   }
 ]
