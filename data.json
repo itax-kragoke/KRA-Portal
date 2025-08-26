@@ -758,5 +758,85 @@
     "totalTaxAmount": "16,000.00",
     "totalInvoiceAmount": "100,000.00",
     "supplierName": "Tonishoots Media"
+  },
+    {
+    "id": "078",
+    "controlUnitInvoiceNumber": "004024009000006034",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2024-11-14",
+    "totalTaxableAmount": "4,000.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "Total Filling Station Limited"
+  },
+      {
+    "id": "079",
+    "controlUnitInvoiceNumber": "004024009000005838",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2024-11-18",
+    "totalTaxableAmount": "4,000.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "Total Filling Station Limited"
+  },
+    {
+    "id": "080",
+    "controlUnitInvoiceNumber": "004024009000006207",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2024-12-24",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Total Filling Station Limited"
+  },
+      {
+    "id": "081",
+    "controlUnitInvoiceNumber": "004024009000009833",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2024-12-18",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "Total Filling Station Limited"
+  },
+  {
+    "id": "082",
+    "controlUnitInvoiceNumber": "00402400900000609",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2024-12-18",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Best Point Shop"
+  },
+  {
+    "id": "083",
+    "controlUnitInvoiceNumber": "004024009000000180",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2024-12-20",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "Visualtech International"
+  },
+  {
+    "id": "084",
+    "controlUnitInvoiceNumber": "004024009000007534",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-06-23",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Total Fillig Station"
+  },
+  {
+    "id": "085",
+    "controlUnitInvoiceNumber": "00402400900008523",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-08-11",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Total Filling Station"
   }
 ]
