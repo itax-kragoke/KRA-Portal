@@ -888,5 +888,25 @@
     "totalTaxAmount": "2516.00",
     "totalInvoiceAmount": "18250.00",
     "supplierName": "Giftland Studio and Restaurant"
+  },
+     {
+    "id": "091",
+    "controlUnitInvoiceNumber": "0040240090001802",
+    "traderSystemInvoiceNo": "139903864958201",
+    "invoiceDate": "2025-09-26",
+    "totalTaxableAmount": "11724.14",
+    "totalTaxAmount": "1875.86.00",
+    "totalInvoiceAmount": "13600.00",
+    "supplierName": "Giftland Studio and Restaurant"
+  },
+     {
+    "id": "092",
+    "controlUnitInvoiceNumber": "0040240090001699",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-09-24",
+    "totalTaxableAmount": "18965.52",
+    "totalTaxAmount": "3034.48",
+    "totalInvoiceAmount": "22000.00",
+    "supplierName": "Giftland Studio and Restaurant"
   }
 ]
