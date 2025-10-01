@@ -868,5 +868,25 @@
     "totalTaxAmount": "48,000.00",
     "totalInvoiceAmount": "300,000.00",
     "supplierName": "Movenpick Hotel"
+  },
+    {
+    "id": "089",
+    "controlUnitInvoiceNumber": "0040240090001698",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-09-19",
+    "totalTaxableAmount": "14870.68",
+    "totalTaxAmount": "2379.32",
+    "totalInvoiceAmount": "17250.00",
+    "supplierName": "Giftland Studio and Restaurant"
+  },
+   {
+    "id": "090",
+    "controlUnitInvoiceNumber": "0040240090001697",
+    "traderSystemInvoiceNo": "139903864275230",
+    "invoiceDate": "2025-09-18",
+    "totalTaxableAmount": "15734.00",
+    "totalTaxAmount": "2516.00",
+    "totalInvoiceAmount": "18250.00",
+    "supplierName": "Giftland Studio and Restaurant"
   }
 ]
