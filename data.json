@@ -874,9 +874,9 @@
     "controlUnitInvoiceNumber": "0040240090001698",
     "traderSystemInvoiceNo": "139903864275230",
     "invoiceDate": "2025-09-19",
-    "totalTaxableAmount": "14870.68",
-    "totalTaxAmount": "2379.32",
-    "totalInvoiceAmount": "17250.00",
+    "totalTaxableAmount": "14,870.68",
+    "totalTaxAmount": "2,379.32",
+    "totalInvoiceAmount": "17,250.00",
     "supplierName": "Giftland Studio and Restaurant"
   },
    {
@@ -884,9 +884,9 @@
     "controlUnitInvoiceNumber": "0040240090001697",
     "traderSystemInvoiceNo": "139903864275230",
     "invoiceDate": "2025-09-18",
-    "totalTaxableAmount": "15734.00",
-    "totalTaxAmount": "2516.00",
-    "totalInvoiceAmount": "18250.00",
+    "totalTaxableAmount": "15,734.00",
+    "totalTaxAmount": "2,516.00",
+    "totalInvoiceAmount": "18,250.00",
     "supplierName": "Giftland Studio and Restaurant"
   },
      {
@@ -894,9 +894,9 @@
     "controlUnitInvoiceNumber": "0040240090001802",
     "traderSystemInvoiceNo": "139903864958201",
     "invoiceDate": "2025-09-26",
-    "totalTaxableAmount": "11724.14",
-    "totalTaxAmount": "1875.86.00",
-    "totalInvoiceAmount": "13600.00",
+    "totalTaxableAmount": "11,724.14",
+    "totalTaxAmount": "1,875.86.00",
+    "totalInvoiceAmount": "13,600.00",
     "supplierName": "Giftland Studio and Restaurant"
   },
      {
@@ -904,9 +904,9 @@
     "controlUnitInvoiceNumber": "0040240090001699",
     "traderSystemInvoiceNo": "139903864275230",
     "invoiceDate": "2025-09-24",
-    "totalTaxableAmount": "18965.52",
-    "totalTaxAmount": "3034.48",
-    "totalInvoiceAmount": "22000.00",
+    "totalTaxableAmount": "18,965.52",
+    "totalTaxAmount": "3,034.48",
+    "totalInvoiceAmount": "22,000.00",
     "supplierName": "Giftland Studio and Restaurant"
   },
     {
@@ -914,9 +914,39 @@
     "controlUnitInvoiceNumber": "0040240090001707",
     "traderSystemInvoiceNo": "139903864275230",
     "invoiceDate": "2025-09-26",
-    "totalTaxableAmount": "15948.28",
-    "totalTaxAmount": "2551.72",
-    "totalInvoiceAmount": "18500.00",
+    "totalTaxableAmount": "15,948.28",
+    "totalTaxAmount": "2,551.72",
+    "totalInvoiceAmount": "18,500.00",
     "supplierName": "Giftland Studio and Restaurant"
+  },
+  {
+    "id": "094",
+    "controlUnitInvoiceNumber": "0040240090001730",
+    "traderSystemInvoiceNo": "139903864957362",
+    "invoiceDate": "2025-10-02",
+    "totalTaxableAmount": "8,900.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,500.00",
+    "supplierName": "Giftland Studio and Restaurant"
+  },
+   {
+    "id": "095",
+    "controlUnitInvoiceNumber": "0040240090001731",
+    "traderSystemInvoiceNo": "139903864956793",
+    "invoiceDate": "2025-10-02",
+    "totalTaxableAmount": "6,300.00",
+    "totalTaxAmount": "1,200.00",
+    "totalInvoiceAmount": "7,500.00",
+    "supplierName": "Giftland Studio and Restaurant"
+  },
+  {
+    "id": "096",
+    "controlUnitInvoiceNumber": "0040240090001123",
+    "traderSystemInvoiceNo": "139903885623651",
+    "invoiceDate": "2025-10-02",
+    "totalTaxableAmount": "840.00",
+    "totalTaxAmount": "160.00",
+    "totalInvoiceAmount": "1,000.00",
+    "supplierName": "Gusii General Wholesellers"
   }
 ]
