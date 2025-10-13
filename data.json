@@ -1068,5 +1068,75 @@
     "totalTaxAmount": "40,000.00",
     "totalInvoiceAmount": "250,000.00",
     "supplierName": "Legend Hotel Limited"
+  },
+  {
+    "id": "109",
+    "controlUnitInvoiceNumber": "0040240090000524",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "672,000.00",
+    "totalTaxAmount": "128,000.00",
+    "totalInvoiceAmount": "800,000.00",
+    "supplierName": "Cyden General Enterprises Limited"
+  },
+  {
+    "id": "110",
+    "controlUnitInvoiceNumber": "0040240090006756",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "189,000.00",
+    "totalTaxAmount": "36,000.00",
+    "totalInvoiceAmount": "225,000.00",
+    "supplierName": "Ethkam Holdings Limited"
+  },
+    {
+    "id": "111",
+    "controlUnitInvoiceNumber": "004024009001623",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "33,600.00",
+    "totalTaxAmount": "6,400.00",
+    "totalInvoiceAmount": "40,000.00",
+    "supplierName": "Under Simtom Enterprises"
+  },
+      {
+    "id": "112",
+    "controlUnitInvoiceNumber": "004024009001876",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "33,600.00",
+    "totalTaxAmount": "6,400.00",
+    "totalInvoiceAmount": "40,000.00",
+    "supplierName": "Sai Office Supplies Limited"
+  },
+  {
+    "id": "113",
+    "controlUnitInvoiceNumber": "004024009001298",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "189,000.00",
+    "totalTaxAmount": "36,000.00",
+    "totalInvoiceAmount": "225,000.00",
+    "supplierName": "Hills Country Logde Limited"
+  },
+  {
+    "id": "114",
+    "controlUnitInvoiceNumber": "00402400900137",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "33,600.00",
+    "totalTaxAmount": "6,400.00",
+    "totalInvoiceAmount": "40,000.00",
+    "supplierName": "Joshy Books & Stationery"
+  },
+    {
+    "id": "114",
+    "controlUnitInvoiceNumber": "004024009001355",
+    "traderSystemInvoiceNo": "0042001946420861",
+   "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "189,000.00",
+    "totalTaxAmount": "36,000.00",
+    "totalInvoiceAmount": "225,000.00",
+    "supplierName": "The Gift Hotel Limited"
   }
 ]
