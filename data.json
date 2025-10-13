@@ -1028,5 +1028,35 @@
     "totalTaxAmount": "64,000.00",
     "totalInvoiceAmount": "400,000.00",
     "supplierName": "Under Simtom Enterprises"
+  },
+  {
+    "id": "105",
+    "controlUnitInvoiceNumber": "0040240090001867",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "75,600.00",
+    "totalTaxAmount": "14,400.00",
+    "totalInvoiceAmount": "90,000.00",
+    "supplierName": "Sai Office Supplies Limited"
+  },
+  {
+    "id": "106",
+    "controlUnitInvoiceNumber": "0040240090001438",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "252,000.00",
+    "totalTaxAmount": "48,000.00",
+    "totalInvoiceAmount": "300,000.00",
+    "supplierName": "Sky Hotel"
+  },
+  {
+    "id": "107",
+    "controlUnitInvoiceNumber": "0040240090001267",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "Mekit Ventures Limited"
   }
 ]
