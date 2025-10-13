@@ -1058,5 +1058,15 @@
     "totalTaxAmount": "16,000.00",
     "totalInvoiceAmount": "100,000.00",
     "supplierName": "Mekit Ventures Limited"
+  },
+    {
+    "id": "108",
+    "controlUnitInvoiceNumber": "0040240090000973",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-06-30",
+    "totalTaxableAmount": "210,000.00",
+    "totalTaxAmount": "40,000.00",
+    "totalInvoiceAmount": "250,000.00",
+    "supplierName": "Legend Hotel Limited"
   }
 ]
