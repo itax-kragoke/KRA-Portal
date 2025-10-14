@@ -1138,5 +1138,25 @@
     "totalTaxAmount": "36,000.00",
     "totalInvoiceAmount": "225,000.00",
     "supplierName": "The Gift Hotel Limited"
+  },
+ {
+    "id": "116",
+    "controlUnitInvoiceNumber": "0040240090001755",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-10-08",
+    "totalTaxableAmount": "10,080.00",
+    "totalTaxAmount": "1,920.00",
+    "totalInvoiceAmount": "12,000.00",
+    "supplierName": "Giftland Studio and Restaurant"
+  },
+   {
+    "id": "117",
+    "controlUnitInvoiceNumber": "0040240090001760",
+    "traderSystemInvoiceNo": "139903885623630",
+    "invoiceDate": "2025-10-09",
+    "totalTaxableAmount": "10,080.00",
+    "totalTaxAmount": "1,920.00",
+    "totalInvoiceAmount": "12,000.00",
+    "supplierName": "Giftland Studio and Restaurant"
   }
 ]
