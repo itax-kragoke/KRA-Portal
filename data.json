@@ -1158,5 +1158,25 @@
     "totalTaxAmount": "3,520.00",
     "totalInvoiceAmount": "22,000.00",
     "supplierName": "Giftland Studio and Restaurant"
+  },
+  {
+    "id": "118",
+    "controlUnitInvoiceNumber": "0040240090002653",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-15",
+    "totalTaxableAmount": "7,140.00",
+    "totalTaxAmount": "1,360.00",
+    "totalInvoiceAmount": "8,500.00",
+    "supplierName": "Tea Tot Hotel"
+  },
+   {
+    "id": "119",
+    "controlUnitInvoiceNumber": "0040240090001143",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-15",
+    "totalTaxableAmount": "840.00",
+    "totalTaxAmount": "160.00",
+    "totalInvoiceAmount": "1,000.00",
+    "supplierName": "Fresh Drops Water"
   }
 ]
