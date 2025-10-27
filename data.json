@@ -1208,5 +1208,35 @@
     "totalTaxAmount": "1,620.00",
     "totalInvoiceAmount": "12,000.00",
     "supplierName": "Kiango Center"
+  },
+    {
+    "id": "123",
+    "controlUnitInvoiceNumber": "0040240090000587",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-15",
+    "totalTaxableAmount": "10,380.00",
+    "totalTaxAmount": "1,620.00",
+    "totalInvoiceAmount": "12,000.00",
+    "supplierName": "Nyakei Community Group"
+  },
+  {
+    "id": "124",
+    "controlUnitInvoiceNumber": "0040240090007246",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-15",
+    "totalTaxableAmount": "8,650.00",
+    "totalTaxAmount": "1,350.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Kisii General Wholesalers"
+  },
+  {
+    "id": "125",
+    "controlUnitInvoiceNumber": "0040240090007245",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-15",
+    "totalTaxableAmount": "865.00",
+    "totalTaxAmount": "135.00",
+    "totalInvoiceAmount": "1,000.00",
+    "supplierName": "Kisii General Wholesalers"
   }
 ]
