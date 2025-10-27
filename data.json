@@ -1178,5 +1178,35 @@
     "totalTaxAmount": "160.00",
     "totalInvoiceAmount": "1,000.00",
     "supplierName": "Fresh Drops Water"
+  },
+     {
+    "id": "120",
+    "controlUnitInvoiceNumber": "0040240090009218",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-21",
+    "totalTaxableAmount": "865.00",
+    "totalTaxAmount": "135.00",
+    "totalInvoiceAmount": "1,000.00",
+    "supplierName": "Total Filling Station Limited"
+  },
+  {
+    "id": "121",
+    "controlUnitInvoiceNumber": "0040240090007638",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-21",
+    "totalTaxableAmount": "8,650.00",
+    "totalTaxAmount": "1,350.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Kisii General Wholesalers"
+  },
+  {
+    "id": "122",
+    "controlUnitInvoiceNumber": "0040240090000653",
+    "traderSystemInvoiceNo": "139903754397560",
+    "invoiceDate": "2025-10-21",
+    "totalTaxableAmount": "10,380.00",
+    "totalTaxAmount": "1,620.00",
+    "totalInvoiceAmount": "12,000.00",
+    "supplierName": "Kiango Center"
   }
 ]
