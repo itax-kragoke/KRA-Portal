@@ -1238,5 +1238,65 @@
     "totalTaxAmount": "135.00",
     "totalInvoiceAmount": "1,000.00",
     "supplierName": "Kisii General Wholesalers"
+  },
+  {
+    "id": "126",
+    "controlUnitInvoiceNumber": "004024009001267",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-10-24",
+    "totalTaxableAmount": "8,650.00",
+    "totalTaxAmount": "1,350.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Bansi Wholesalers Limited"
+  },
+  {
+    "id": "127",
+    "controlUnitInvoiceNumber": "004024009000599",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-10-24",
+    "totalTaxableAmount": "10,380.00",
+    "totalTaxAmount": "1,620.00",
+    "totalInvoiceAmount": "12,000.00",
+    "supplierName": "Matongo Events Limited"
+  },
+  {
+    "id": "128",
+    "controlUnitInvoiceNumber": "0040240090005417",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-10-23",
+    "totalTaxableAmount": "10,380.00",
+    "totalTaxAmount": "1,620.00",
+    "totalInvoiceAmount": "12,000.00",
+    "supplierName": "Matomo Canopies"
+  },
+  {
+    "id": "129",
+    "controlUnitInvoiceNumber": "0040240090006425",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-10-23",
+    "totalTaxableAmount": "8,650.00",
+    "totalTaxAmount": "1,350.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Mokoro Distributors"
+  },
+  {
+    "id": "130",
+    "controlUnitInvoiceNumber": "0040240090001286",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-10-22",
+    "totalTaxableAmount": "8,650.00",
+    "totalTaxAmount": "1,350.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "Kisii Discount Store"
+  },
+  {
+    "id": "131",
+    "controlUnitInvoiceNumber": "0040240090001428",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-10-22",
+    "totalTaxableAmount": "10,380.00",
+    "totalTaxAmount": "1,620.00",
+    "totalInvoiceAmount": "12,000.00",
+    "supplierName": "Befa Tents E.A"
   }
 ]
