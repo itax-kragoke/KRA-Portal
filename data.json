@@ -1298,5 +1298,25 @@
     "totalTaxAmount": "1,620.00",
     "totalInvoiceAmount": "12,000.00",
     "supplierName": "Befa Tents E.A"
+  },
+    {
+    "id": "132",
+    "controlUnitInvoiceNumber": "0040240090001252",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-08-28",
+    "totalTaxableAmount": "3,460.00",
+    "totalTaxAmount": "540.00",
+    "totalInvoiceAmount": "4,000.00",
+    "supplierName": "Bondo CDF Hall"
+  },
+   {
+    "id": "133",
+    "controlUnitInvoiceNumber": "0040240090006417",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-08-29",
+    "totalTaxableAmount": "11,245.00",
+    "totalTaxAmount": "1,755.00",
+    "totalInvoiceAmount": "13,000.00",
+    "supplierName": "Nyadala General Wholesalers"
   }
 ]
