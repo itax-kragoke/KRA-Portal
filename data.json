@@ -1318,5 +1318,15 @@
     "totalTaxAmount": "1,755.00",
     "totalInvoiceAmount": "13,000.00",
     "supplierName": "Nyadala General Wholesalers"
+  },
+   {
+    "id": "134",
+    "controlUnitInvoiceNumber": "0040240090006417",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2025-10-08",
+    "totalTaxableAmount": "6,606.50",
+    "totalTaxAmount": "1,193.50",
+    "totalInvoiceAmount": "7,700.00",
+    "supplierName": "REHOBOTH DECORATION"
   }
 ]
