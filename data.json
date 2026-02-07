@@ -1328,5 +1328,65 @@
     "totalTaxAmount": "1,193.50",
     "totalInvoiceAmount": "7,700.00",
     "supplierName": "REHOBOTH DECORATION"
+  },
+     {
+    "id": "135",
+    "controlUnitInvoiceNumber": "0040240090001452",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-01-22",
+    "totalTaxableAmount": "19,041.00",
+    "totalTaxAmount": "2,059.00",
+    "totalInvoiceAmount": "22,000.00",
+    "supplierName": "BAFA TENTS E.A"
+  },
+      {
+    "id": "136",
+    "controlUnitInvoiceNumber": "00402400900039810",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-02-03",
+    "totalTaxableAmount": "865.00",
+    "totalTaxAmount": "135.00",
+    "totalInvoiceAmount": "1,000.00",
+    "supplierName": "NYABOLINK ENTERPRISES"
+  },
+        {
+    "id": "137",
+    "controlUnitInvoiceNumber": "0040240090001464",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-02-03",
+    "totalTaxableAmount": "19,041.00",
+    "totalTaxAmount": "2,059.00",
+    "totalInvoiceAmount": "22,000.00",
+    "supplierName": "BAFA TENTS E.A"
+  },
+       {
+    "id": "138",
+    "controlUnitInvoiceNumber": "0040240090001399",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-01-16",
+    "totalTaxableAmount": "24,248.00",
+    "totalTaxAmount": "3,752.00",
+    "totalInvoiceAmount": "28,000.00",
+    "supplierName": "BAFA TENTS E.A"
+  },
+       {
+    "id": "139",
+    "controlUnitInvoiceNumber": "0040240090001399",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-01-16",
+    "totalTaxableAmount": "24,248.00",
+    "totalTaxAmount": "3,752.00",
+    "totalInvoiceAmount": "28,000.00",
+    "supplierName": "LEGIT EVENT TENTS"
+  },
+         {
+    "id": "140,
+    "controlUnitInvoiceNumber": "0040240090001399",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-01-16",
+    "totalTaxableAmount": "24,248.00",
+    "totalTaxAmount": "3,752.00",
+    "totalInvoiceAmount": "28,000.00",
+    "supplierName": "LEGIT EVENT TENTS"
   }
 ]
