@@ -1367,7 +1367,7 @@
     "totalTaxableAmount": "24,248.00",
     "totalTaxAmount": "3,752.00",
     "totalInvoiceAmount": "28,000.00",
-    "supplierName": "BAFA TENTS E.A"
+    "supplierName": "LEGIT EVENT TENTS"
   },
        {
     "id": "139",
@@ -1381,6 +1381,16 @@
   },
          {
     "id": "140",
+    "controlUnitInvoiceNumber": "0040240090001399",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-01-16",
+    "totalTaxableAmount": "24,248.00",
+    "totalTaxAmount": "3,752.00",
+    "totalInvoiceAmount": "28,000.00",
+    "supplierName": "LEGIT EVENT TENTS"
+  },
+        {
+    "id": "141",
     "controlUnitInvoiceNumber": "0040240090001399",
     "traderSystemInvoiceNo": "139903754390924",
     "invoiceDate": "2026-01-16",
