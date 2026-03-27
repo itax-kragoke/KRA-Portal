@@ -1478,5 +1478,15 @@
     "totalTaxAmount": "2,618.00",
     "totalInvoiceAmount": "17,000.00",
     "supplierName": "MAC FRYZ CAFE"
+  },
+         {
+    "id": "150",
+    "controlUnitInvoiceNumber": "0040240090001325",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-02-06",
+    "totalTaxableAmount": "77,916.60",
+    "totalTaxAmount": "14,183.40",
+    "totalInvoiceAmount": "92,100.00",
+    "supplierName": "MOSETECH STATIONERS"
   }
 ]
