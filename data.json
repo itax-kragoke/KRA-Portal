@@ -1498,5 +1498,25 @@
     "totalTaxAmount": "1,540.00",
     "totalInvoiceAmount": "10,000.00",
     "supplierName": "MOSETECH STATIONERS"
+  },
+   {
+    "id": "152",
+    "controlUnitInvoiceNumber": "0040240090001405",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-04-06",
+    "totalTaxableAmount": "12,855.00",
+    "totalTaxAmount": "2,145.00",
+    "totalInvoiceAmount": "15,000.00",
+    "supplierName": "VIVO ENERGIERS KENYA"
+  },
+   {
+    "id": "153",
+    "controlUnitInvoiceNumber": "0040240090007531",
+    "traderSystemInvoiceNo": "139903754390924",
+    "invoiceDate": "2026-04-07",
+    "totalTaxableAmount": "12,855.00",
+    "totalTaxAmount": "2,145.00",
+    "totalInvoiceAmount": "15,000.00",
+    "supplierName": "TOTAL ENERGIES SERVICE STATION"
   }
 ]
