@@ -1518,5 +1518,105 @@
     "totalTaxAmount": "2,145.00",
     "totalInvoiceAmount": "15,000.00",
     "supplierName": "TOTAL ENERGIES SERVICE STATION"
+  },
+  {
+    "id": "154",
+    "controlUnitInvoiceNumber": "00402400500003420",
+    "traderSystemInvoiceNo": "KRAMW0042001978643092",
+    "invoiceDate": "2026-05-25",
+    "totalTaxableAmount": "16,920.00",
+    "totalTaxAmount": "3,080.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "HELSINKI HOTEL NYAMIRA"
+  },
+    {
+    "id": "155",
+    "controlUnitInvoiceNumber": "00402400500006352",
+    "traderSystemInvoiceNo": "KRAMW0049821642035489",
+    "invoiceDate": "2026-06-04",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "GOSHEN INN LIMITED"
+  },
+  {
+    "id": "156",
+    "controlUnitInvoiceNumber": "00402404300007234",
+    "traderSystemInvoiceNo": "KRAMW0049845120932864",
+    "invoiceDate": "2026-06-02",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "GREAT CHEF HOTEL"
+  },
+  {
+    "id": "157",
+    "controlUnitInvoiceNumber": "00402400100001230",
+    "traderSystemInvoiceNo": "KRAMW0047310425734975",
+    "invoiceDate": "2026-05-22",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "FRIENDS HOTEL KAKAMEGA"
+  },
+    {
+    "id": "158",
+    "controlUnitInvoiceNumber": "004024009000003981",
+    "traderSystemInvoiceNo": "KRAMW0042007043185395",
+    "invoiceDate": "2026-06-03",
+    "totalTaxableAmount": "17,040.00",
+    "totalTaxAmount": "2,960.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "HILLS COUNTRY LODGE LTD"
+  },
+    {
+    "id": "159",
+    "controlUnitInvoiceNumber": "00402400500009347",
+    "traderSystemInvoiceNo": "KRAMW0049884623947651",
+    "invoiceDate": "2026-05-15",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "IMPERIAL HOTEL"
+  },
+     {
+    "id": "160",
+    "controlUnitInvoiceNumber": "004024438000001254",
+    "traderSystemInvoiceNo": "KRAMW0042007512307536",
+    "invoiceDate": "2026-06-05",
+    "totalTaxableAmount": "16,920.00",
+    "totalTaxAmount": "3,080.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "THE CANDELA HOTEL"
+  },
+    {
+    "id": "161",
+    "controlUnitInvoiceNumber": "00402400900002348",
+    "traderSystemInvoiceNo": "KRAMW0042007049841748",
+    "invoiceDate": "2026-06-01",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "ENIGMA RESORT"
+  },
+    {
+    "id": "162",
+    "controlUnitInvoiceNumber": "00402400500005623",
+    "traderSystemInvoiceNo": "KRAMW0049841032439564",
+    "invoiceDate": "2026-05-22",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "LA ZION HOTEL LTD"
+  },
+      {
+    "id": "163",
+    "controlUnitInvoiceNumber": "KRACU0100027931",
+    "traderSystemInvoiceNo": "KRACU0100027931/1270",
+    "invoiceDate": "2026-05-18",
+    "totalTaxableAmount": "16,800.00",
+    "totalTaxAmount": "3,200.00",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "BELMONT HOTEL"
   }
-]
+  ]
