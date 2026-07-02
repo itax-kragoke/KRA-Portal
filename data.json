@@ -1618,5 +1618,45 @@
     "totalTaxAmount": "3,200.00",
     "totalInvoiceAmount": "20,000.00",
     "supplierName": "BELMONT HOTEL"
+  },
+    {
+    "id": "164",
+    "controlUnitInvoiceNumber": "00402400500007364",
+    "traderSystemInvoiceNo": "KRAMW0049841032439564",
+    "invoiceDate": "2026-05-31",
+    "totalTaxableAmount": "6,337.50",
+    "totalTaxAmount": "1,162.50",
+    "totalInvoiceAmount": "7,500.00",
+    "supplierName": "OLA ENERGIES STATION WESTLANDS"
+  },
+      {
+    "id": "165",
+    "controlUnitInvoiceNumber": "00402400500007084",
+    "traderSystemInvoiceNo": "KRAMW0049841032439564",
+    "invoiceDate": "2026-05-19",
+    "totalTaxableAmount": "25,200.00",
+    "totalTaxAmount": "4,800.00",
+    "totalInvoiceAmount": "30,000.00",
+    "supplierName": "OLA ENERGIES STATION WESTLANDS"
+  },
+   {
+    "id": "166",
+    "controlUnitInvoiceNumber": "0100002356701254",
+    "traderSystemInvoiceNo": "KRAMW0049841032439564",
+    "invoiceDate": "2026-06-05",
+    "totalTaxableAmount": "6,720.00",
+    "totalTaxAmount": "1,280.00",
+    "totalInvoiceAmount": "8,000.00",
+    "supplierName": "PACHO FILLING STATION"
+  },
+     {
+    "id": "167",
+    "controlUnitInvoiceNumber": "00402400500001625",
+    "traderSystemInvoiceNo": "KRAMW0049821642035489",
+    "invoiceDate": "2026-04-01",
+    "totalTaxableAmount": "68,880.00",
+    "totalTaxAmount": "13,120.00",
+    "totalInvoiceAmount": "82,000.00",
+    "supplierName": "DELIVERANCE CHURCH UMOJA"
   }
   ]
