@@ -1738,5 +1738,15 @@
     "totalTaxAmount": "98,305.08",
     "totalInvoiceAmount": "725,000.00",
     "supplierName": "KCB LEADERSHIP CENTER & SPORTS CLUB"
+  },
+  {
+    "id": "176",
+    "controlUnitInvoiceNumber": " 0040240050006534",
+    "traderSystemInvoiceNo": "KRAMW00420019789754319",
+    "invoiceDate": "2026-07-01",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "TUM HOTEL & CONFERENCING"
   }
   ]
