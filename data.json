@@ -1748,5 +1748,75 @@
     "totalTaxAmount": "16,000.00",
     "totalInvoiceAmount": "100,000.00",
     "supplierName": "TUM HOTEL & CONFERENCING"
+  },
+    {
+    "id": "177",
+    "controlUnitInvoiceNumber": " 0040240050005381",
+    "traderSystemInvoiceNo": "KRAMW00420017654093127",
+    "invoiceDate": "2026-07-01",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "THE HOTEL EAGLES TALA"
+  },
+      {
+    "id": "178",
+    "controlUnitInvoiceNumber": " 0040240050007935",
+    "traderSystemInvoiceNo": "KRAMW00420017658532973",
+    "invoiceDate": "2026-07-02",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSET HOTEL KISUMU"
+  },
+      {
+    "id": "179",
+    "controlUnitInvoiceNumber": " 0040240050003851",
+    "traderSystemInvoiceNo": "KRAMW00420017074328637",
+    "invoiceDate": "2026-07-05",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "GREEN PARK HOTEL"
+  },
+      {
+    "id": "180",
+    "controlUnitInvoiceNumber": " 0040240050006295",
+    "traderSystemInvoiceNo": "KRAMW00420017654096325",
+    "invoiceDate": "2026-07-05",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSHINE HOTEL UPPERHILL"
+  },
+    {
+    "id": "181",
+    "controlUnitInvoiceNumber": " 0040240050007042",
+    "traderSystemInvoiceNo": "KRAMW00420017654097563",
+    "invoiceDate": "2026-07-04",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "TEA TOT HOTEL"
+  },
+    {
+    "id": "182",
+    "controlUnitInvoiceNumber": " 0040240050005926",
+    "traderSystemInvoiceNo": "KRAMW00420017654085631",
+    "invoiceDate": "2026-07-02",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "UFANISI RESORT"
+  },
+      {
+    "id": "183",
+    "controlUnitInvoiceNumber": " 0040240050005926",
+    "traderSystemInvoiceNo": "KRAMW00420017654085631",
+    "invoiceDate": "2026-07-03",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "MERU SLOPES HOTEL"
   }
   ]
