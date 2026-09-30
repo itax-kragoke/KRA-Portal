@@ -1848,5 +1848,115 @@
     "totalTaxAmount": "4,800.00",
     "totalInvoiceAmount": "30,000.00",
     "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
+  },
+  {
+    "id": "187",
+    "controlUnitInvoiceNumber": " 0040240050005384",
+    "traderSystemInvoiceNo": "KRAMW00420019789975674",
+    "invoiceDate": "2026-07-12",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "PINE COURT MALINDI"
+  },
+    {
+    "id": "188",
+    "controlUnitInvoiceNumber": " 0040240050008976",
+    "traderSystemInvoiceNo": "KRAMW00420017985693127",
+    "invoiceDate": "2026-07-12",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "GRAND TURACO HOTEL"
+  },
+      {
+    "id": "189",
+    "controlUnitInvoiceNumber": " 0040240050004562",
+    "traderSystemInvoiceNo": "KRAMW00420017658967563",
+    "invoiceDate": "2026-07-14",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "PALACINA HOTEL"
+  },
+      {
+    "id": "190",
+    "controlUnitInvoiceNumber": " 0040240050002537",
+    "traderSystemInvoiceNo": "KRAMW00420017074367846",
+    "invoiceDate": "2026-07-13",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "KIRIMARA SPRINGS HOTEL"
+  },
+      {
+    "id": "200",
+    "controlUnitInvoiceNumber": " 0040240050001243",
+    "traderSystemInvoiceNo": "KRAMW00420017654085645",
+    "invoiceDate": "2026-07-14",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "FLORENCE HOTEL MIGORI"
+  },
+    {
+    "id": "201",
+    "controlUnitInvoiceNumber": " 0040240050003546",
+    "traderSystemInvoiceNo": "KRAMW00420017654962184",
+    "invoiceDate": "2026-07-10",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "RIFT VALLEY HILLS RESORT"
+  },
+    {
+    "id": "202",
+    "controlUnitInvoiceNumber": " 0040240050005852",
+    "traderSystemInvoiceNo": "KRAMW00420017654089648",
+    "invoiceDate": "2026-07-10",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SULTAN PYRAMIDS RESORT"
+  },
+      {
+    "id": "203",
+    "controlUnitInvoiceNumber": " 0040240050003684",
+    "traderSystemInvoiceNo": "KRAMW00420017078643218",
+    "invoiceDate": "2026-07-11",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "TWO OCEANS HOTEL VOI"
+  },
+     {
+    "id": "204",
+    "controlUnitInvoiceNumber": " 0040240050005693",
+    "traderSystemInvoiceNo": "KRAMW00420017967435631",
+    "invoiceDate": "2026-07-11",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "GREAT CHEF HOTEL"
+  },
+    {
+    "id": "205",
+    "controlUnitInvoiceNumber": " 0040240050004392",
+    "traderSystemInvoiceNo": "KRAMW00420017654096581",
+    "invoiceDate": "2026-07-13",
+    "totalTaxableAmount": "25,200.00",
+    "totalTaxAmount": "4,800.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "OLOIRIEN HOTEL & RESORT"
+  },
+  {
+    "id": "206",
+    "controlUnitInvoiceNumber": " 0040240050001308",
+    "traderSystemInvoiceNo": "KRAMW00420017654967491",
+    "invoiceDate": "2026-07-10",
+    "totalTaxableAmount": "25,200.00",
+    "totalTaxAmount": "4,800.00",
+    "totalInvoiceAmount": "30,000.00",
+    "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
   }    
   ]
