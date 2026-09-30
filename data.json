@@ -1811,12 +1811,42 @@
   },
       {
     "id": "183",
-    "controlUnitInvoiceNumber": " 0040240050005926",
+    "controlUnitInvoiceNumber": " 0040240050004983",
     "traderSystemInvoiceNo": "KRAMW00420017654085631",
     "invoiceDate": "2026-07-03",
     "totalTaxableAmount": "84,000.00",
     "totalTaxAmount": "16,000.00",
     "totalInvoiceAmount": "100,000.00",
     "supplierName": "MERU SLOPES HOTEL"
-  }
+  },
+     {
+    "id": "184",
+    "controlUnitInvoiceNumber": " 0040240050001592",
+    "traderSystemInvoiceNo": "KRAMW00420017654085631",
+    "invoiceDate": "2026-07-04",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "KWETU SOUTH INN"
+  },
+    {
+    "id": "185",
+    "controlUnitInvoiceNumber": " 0040240050006483",
+    "traderSystemInvoiceNo": "KRAMW00420017654085631",
+    "invoiceDate": "2026-07-03",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "COMFY INN ELDORET"
+  },
+  {
+    "id": "186",
+    "controlUnitInvoiceNumber": " 0040240050001298",
+    "traderSystemInvoiceNo": "KRAMW00420017654085631",
+    "invoiceDate": "2026-07-03",
+    "totalTaxableAmount": "84,000.00",
+    "totalTaxAmount": "16,000.00",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
+  }    
   ]
