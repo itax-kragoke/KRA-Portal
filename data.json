@@ -2068,5 +2068,115 @@
     "totalTaxAmount": "4,800.00",
     "totalInvoiceAmount": "30,000.00",
     "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
+  },
+  {
+    "id": "218",
+    "controlUnitInvoiceNumber": " 0040240050005384",
+    "traderSystemInvoiceNo": "KRAMW00420019789975674",
+    "invoiceDate": "2026-08-01",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "GREEN PARK HOTEL"
+  },
+    {
+    "id": "219",
+    "controlUnitInvoiceNumber": " 0040240050008976",
+    "traderSystemInvoiceNo": "KRAMW00420017985693127",
+    "invoiceDate": "2026-08-01",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSET HOTEL KISUMU"
+  },
+      {
+    "id": "220",
+    "controlUnitInvoiceNumber": " 0040240050004562",
+    "traderSystemInvoiceNo": "KRAMW00420017658967563",
+    "invoiceDate": "2026-08-02",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "PREMIUM INN MOMBASA"
+  },
+      {
+    "id": "221",
+    "controlUnitInvoiceNumber": " 0040240050002537",
+    "traderSystemInvoiceNo": "KRAMW00420017074367846",
+    "invoiceDate": "2026-08-02",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "THE HOTEL EAGLES TALA"
+  },
+      {
+    "id": "222",
+    "controlUnitInvoiceNumber": " 0040240050001243",
+    "traderSystemInvoiceNo": "KRAMW00420017654085645",
+    "invoiceDate": "2026-08-03",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "DALLAS PREMIERE HOTEL"
+  },
+    {
+    "id": "223",
+    "controlUnitInvoiceNumber": " 0040240050003546",
+    "traderSystemInvoiceNo": "KRAMW00420017654962184",
+    "invoiceDate": "2026-08-03",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "KWETU SOUTH INN LTD"
+  },
+    {
+    "id": "224",
+    "controlUnitInvoiceNumber": " 0040240050005852",
+    "traderSystemInvoiceNo": "KRAMW00420017654089648",
+    "invoiceDate": "2026-08-04",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "MERU PARAMOUNT HOTEL"
+  },
+      {
+    "id": "225",
+    "controlUnitInvoiceNumber": " 0040240050003684",
+    "traderSystemInvoiceNo": "KRAMW00420017078643218",
+    "invoiceDate": "2026-08-05",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "ACK BETHEL RESORT MACHAKOS"
+  },
+     {
+    "id": "226",
+    "controlUnitInvoiceNumber": " 0040240050005693",
+    "traderSystemInvoiceNo": "KRAMW00420017967435631",
+    "invoiceDate": "2026-08-05",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSHINE HOTEL UPPERHILL"
+  },
+    {
+    "id": "227",
+    "controlUnitInvoiceNumber": " 0040240050004392",
+    "traderSystemInvoiceNo": "KRAMW00420017654096581",
+    "invoiceDate": "2026-07-19",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "XXX COMFY ELDORET - MERU XXX"
+  },
+  {
+    "id": "228",
+    "controlUnitInvoiceNumber": " 0040240050001308",
+    "traderSystemInvoiceNo": "KRAMW00420017654967491",
+    "invoiceDate": "2026-08-01",
+    "totalTaxableAmount": "25,200.00",
+    "totalTaxAmount": "4,800.00",
+    "totalInvoiceAmount": "30,000.00",
+    "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
   }    
   ]
