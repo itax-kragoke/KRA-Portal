@@ -2101,7 +2101,7 @@
   },
       {
     "id": "221",
-    "controlUnitInvoiceNumber": " 0040240050002537",
+    "controlUnitInvoiceNumber": " 0040240050006352",
     "traderSystemInvoiceNo": "KRAMW00420017074367846",
     "invoiceDate": "2026-08-02",
    "totalTaxableAmount": "86,206.90",
@@ -2151,7 +2151,7 @@
   },
      {
     "id": "226",
-    "controlUnitInvoiceNumber": " 0040240050005693",
+    "controlUnitInvoiceNumber": " 0040240050006583",
     "traderSystemInvoiceNo": "KRAMW00420017967435631",
     "invoiceDate": "2026-08-05",
    "totalTaxableAmount": "86,206.90",
@@ -2163,15 +2163,15 @@
     "id": "227",
     "controlUnitInvoiceNumber": " 0040240050004392",
     "traderSystemInvoiceNo": "KRAMW00420017654096581",
-    "invoiceDate": "2026-07-19",
+    "invoiceDate": "2026-08-04",
     "totalTaxableAmount": "86,206.90",
     "totalTaxAmount": "13,793.10",
     "totalInvoiceAmount": "100,000.00",
-    "supplierName": "XXX COMFY ELDORET - MERU XXX"
+    "supplierName": "COMFY INN ELDORET"
   },
   {
     "id": "228",
-    "controlUnitInvoiceNumber": " 0040240050001308",
+    "controlUnitInvoiceNumber": " 0040240050001365",
     "traderSystemInvoiceNo": "KRAMW00420017654967491",
     "invoiceDate": "2026-08-01",
     "totalTaxableAmount": "25,200.00",
