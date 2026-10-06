@@ -2288,5 +2288,115 @@
     "totalTaxAmount": "4,800.00",
     "totalInvoiceAmount": "30,000.00",
     "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
+  },
+  {
+    "id": "240",
+    "controlUnitInvoiceNumber": " 0040240050005965",
+    "traderSystemInvoiceNo": "KRAMW00420019789975674",
+    "invoiceDate": "2026-08-17",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "HELSINKI HOTEL NYAMIRA"
+  },
+    {
+    "id": "241",
+    "controlUnitInvoiceNumber": " 0040240050008995",
+    "traderSystemInvoiceNo": "KRAMW00420017985693127",
+    "invoiceDate": "2026-08-18",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "DISTINCTION GARDENS"
+  },
+      {
+    "id": "242",
+    "controlUnitInvoiceNumber": " 0040240050004623",
+    "traderSystemInvoiceNo": "KRAMW00420017658967563",
+    "invoiceDate": "2026-08-20",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "OMEGA GARDENS HOTEL"
+  },
+      {
+    "id": "243",
+    "controlUnitInvoiceNumber": " 0040240050005486",
+    "traderSystemInvoiceNo": "KRAMW00420017074367846",
+    "invoiceDate": "2026-08-17",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "ORIENTAL PALACE HOTEL"
+  },
+      {
+    "id": "244",
+    "controlUnitInvoiceNumber": " 0040240050003732",
+    "traderSystemInvoiceNo": "KRAMW00420017654085645",
+    "invoiceDate": "2026-08-19",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "GOLDEN PALM BREEZE HOTEL"
+  },
+    {
+    "id": "245",
+    "controlUnitInvoiceNumber": " 0040240050008988",
+    "traderSystemInvoiceNo": "KRAMW00420017654962184",
+    "invoiceDate": "2026-08-12",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "ASHLEYS SUITES"
+  },
+    {
+    "id": "246",
+    "controlUnitInvoiceNumber": " 0040240050005852",
+    "traderSystemInvoiceNo": "KRAMW00420017654089648",
+    "invoiceDate": "2026-08-18",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "KITUI PREMIER RESORT"
+  },
+      {
+    "id": "247",
+    "controlUnitInvoiceNumber": " 0040240050004573",
+    "traderSystemInvoiceNo": "KRAMW00420017078643218",
+    "invoiceDate": "2026-08-17",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSET OAK HOTEL"
+  },
+     {
+    "id": "248",
+    "controlUnitInvoiceNumber": " 0040240050003670",
+    "traderSystemInvoiceNo": "KRAMW00420017967435631",
+    "invoiceDate": "2026-08-19",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "BREVAN HOTEL & CONFERENCE CENTER"
+  },
+    {
+    "id": "249",
+    "controlUnitInvoiceNumber": " 0040240050002690",
+    "traderSystemInvoiceNo": "KRAMW00420017654096581",
+    "invoiceDate": "2026-08-20",
+    "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "KAPSABET COMFY HOTEL"
+  },
+  {
+    "id": "250",
+    "controlUnitInvoiceNumber": " 0040240050001586",
+    "traderSystemInvoiceNo": "KRAMW00420017654875432",
+    "invoiceDate": "2026-08-14",
+    "totalTaxableAmount": "25,200.00",
+    "totalTaxAmount": "4,800.00",
+    "totalInvoiceAmount": "30,000.00",
+    "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
   }    
   ]
