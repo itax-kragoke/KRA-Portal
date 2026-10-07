@@ -2618,5 +2618,15 @@
     "totalTaxAmount": "2,758.62",
     "totalInvoiceAmount": "20,000.00",
     "supplierName": "MFI DOCUMENTS SOLUTIONS LTD"
+  },
+   {
+    "id": "273",
+    "controlUnitInvoiceNumber": " 0040240050004822",
+    "traderSystemInvoiceNo": "KRAMW0042001897643218",
+    "invoiceDate": "2026-09-30",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSET HOTEL KISUMU"
   }
   ]
