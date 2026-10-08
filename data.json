@@ -2638,5 +2638,75 @@
     "totalTaxAmount": "13,793.10",
     "totalInvoiceAmount": "100,000.00",
     "supplierName": "SUNSET HOTEL KISUMU"
+  },
+  {
+    "id": "275",
+    "controlUnitInvoiceNumber": " 0040240050005164",
+    "traderSystemInvoiceNo": "KRAMW00420017697685473",
+    "invoiceDate": "2026-07-27",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "BREVAN HOTEL & CONFERENCING CENTER"
+  },
+   {
+    "id": "276",
+    "controlUnitInvoiceNumber": " 0040240050005274",
+    "traderSystemInvoiceNo": "KRAMW00420017697278401",
+    "invoiceDate": "2026-07-13",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "GREAT CHEF HOTEL"
+  },
+  {
+    "id": "277",
+    "controlUnitInvoiceNumber": " 0040240050003199",
+    "traderSystemInvoiceNo": "KRAMW00420017286403817",
+    "invoiceDate": "2026-07-18",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "CICADA HOTEL"
+  },
+  {
+    "id": "278",
+    "controlUnitInvoiceNumber": " 0040240087004367",
+    "traderSystemInvoiceNo": "KRAMW00420017684902183",
+    "invoiceDate": "2026-07-18",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "CICADA HOTEL"
+  },
+  {
+    "id": "279",
+    "controlUnitInvoiceNumber": " 0040240018008742",
+    "traderSystemInvoiceNo": "KRAMW00420017686754301",
+    "invoiceDate": "2026-07-15",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "GRAND TURACO HOTEL"
+  },
+   {
+    "id": "280",
+    "controlUnitInvoiceNumber": " 0040850018005603",
+    "traderSystemInvoiceNo": "KRAMW004200189657432",
+    "invoiceDate": "2026-07-29",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "KAPSABET COMFY HOTEL"
+  },
+  {
+    "id": "281",
+    "controlUnitInvoiceNumber": " 0040850018006095",
+    "traderSystemInvoiceNo": "KRAMW004200164983172",
+    "invoiceDate": "2026-07-17",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "SUNSHINE HOTEL UPPERHILL"
   }
   ]
