@@ -2708,5 +2708,85 @@
     "totalTaxAmount": "2,758.62",
     "totalInvoiceAmount": "20,000.00",
     "supplierName": "SUNSHINE HOTEL UPPERHILL"
+  },
+  {
+    "id": "282",
+    "controlUnitInvoiceNumber": " 004085001800601194",
+    "traderSystemInvoiceNo": "KRAMW004200169065382",
+    "invoiceDate": "2026-07-21",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "DALLAS PREMIERE HOTEL"
+  },
+  {
+    "id": "283",
+    "controlUnitInvoiceNumber": " 004085001900604639",
+    "traderSystemInvoiceNo": "KRAMW004200167492715",
+    "invoiceDate": "2026-07-23",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "SUNSET HOTEL KISUMU"
+  },
+  {
+    "id": "284",
+    "controlUnitInvoiceNumber": " 004085001900604459",
+    "traderSystemInvoiceNo": "KRAMW0042001679675433",
+    "invoiceDate": "2026-07-25",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "SUNSET OAK HOTEL"
+  },
+  {
+    "id": "285",
+    "controlUnitInvoiceNumber": " 004085001900604516",
+    "traderSystemInvoiceNo": "KRAMW0042001679675332",
+    "invoiceDate": "2026-07-28",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "OLOIRIEN HOTEL & RESORT"
+  },
+  {
+    "id": "286",
+    "controlUnitInvoiceNumber": " 004085001900603598",
+    "traderSystemInvoiceNo": "KRAMW0042001678674310",
+    "invoiceDate": "2026-07-20",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "HELSINKI HOTEL NYAMIRA"
+  },
+  {
+    "id": "287",
+    "controlUnitInvoiceNumber": " 004024009000002589",
+    "traderSystemInvoiceNo": "KRAMW0042008317780503",
+    "invoiceDate": "2026-07-30",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "KIRIMARA SPRINGS HOTEL"
+  },
+   {
+    "id": "288",
+    "controlUnitInvoiceNumber": " 004024009000001236",
+    "traderSystemInvoiceNo": "KRAMW0042008396583210",
+    "invoiceDate": "2026-07-22",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "DISTINCTION GARDENS"
+  },
+   {
+    "id": "289",
+    "controlUnitInvoiceNumber": " 004024002700004362",
+    "traderSystemInvoiceNo": "KRAMW00420083068432914",
+    "invoiceDate": "2026-07-14",
+    "totalTaxableAmount": "17,241.38",
+    "totalTaxAmount": "2,758.62",
+    "totalInvoiceAmount": "20,000.00",
+    "supplierName": "THE NEST BOYANI"
   }
   ]
