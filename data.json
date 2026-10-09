@@ -2751,7 +2751,7 @@
   },
   {
     "id": "286",
-    "controlUnitInvoiceNumber": " 004085001900603598",
+    "controlUnitInvoiceNumber": "004085001900603598",
     "traderSystemInvoiceNo": "KRAMW0042001678674310",
     "invoiceDate": "2026-07-20",
     "totalTaxableAmount": "17,241.38",
@@ -2761,7 +2761,7 @@
   },
   {
     "id": "287",
-    "controlUnitInvoiceNumber": " 004024009000002589",
+    "controlUnitInvoiceNumber": "004024009000002589",
     "traderSystemInvoiceNo": "KRAMW0042008317780503",
     "invoiceDate": "2026-07-30",
     "totalTaxableAmount": "17,241.38",
@@ -2771,7 +2771,7 @@
   },
    {
     "id": "288",
-    "controlUnitInvoiceNumber": " 004024009000001236",
+    "controlUnitInvoiceNumber": "004024009000001236",
     "traderSystemInvoiceNo": "KRAMW0042008396583210",
     "invoiceDate": "2026-07-22",
     "totalTaxableAmount": "17,241.38",
@@ -2781,12 +2781,92 @@
   },
    {
     "id": "289",
-    "controlUnitInvoiceNumber": " 004024002700004362",
+    "controlUnitInvoiceNumber": "004024002700004362",
     "traderSystemInvoiceNo": "KRAMW00420083068432914",
     "invoiceDate": "2026-07-14",
     "totalTaxableAmount": "17,241.38",
     "totalTaxAmount": "2,758.62",
     "totalInvoiceAmount": "20,000.00",
     "supplierName": "THE NEST BOYANI"
+  },
+   {
+    "id": "290",
+    "controlUnitInvoiceNumber": "004024002700004362",
+    "traderSystemInvoiceNo": "KRAMW0042003608856392",
+    "invoiceDate": "2026-07-22",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "UFANISI RESORT"
+  },
+  {
+    "id": "291",
+    "controlUnitInvoiceNumber": "004024002700004823",
+    "traderSystemInvoiceNo": "KRAMW0042003696754931",
+    "invoiceDate": "2026-07-22",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSET HOTEL KISUMU"
+  },
+  {
+    "id": "292",
+    "controlUnitInvoiceNumber": "004024002700005812",
+    "traderSystemInvoiceNo": "KRAMW0042003856432010",
+    "invoiceDate": "2026-07-23",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "GREAT CHEF HOTEL"
+  },
+  {
+    "id": "293",
+    "controlUnitInvoiceNumber": "004024009000002689",
+    "traderSystemInvoiceNo": "KRAMW0042008318965493",
+    "invoiceDate": "2026-07-23",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "KIRIMARA SPRINGS HOTEL"
+  },
+  {
+    "id": "294",
+    "controlUnitInvoiceNumber": "004024009000004753",
+    "traderSystemInvoiceNo": "KRAMW0042008319785342",
+    "invoiceDate": "2026-07-24",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "SUNSET OAK HOTEL"
+  },
+  {
+    "id": "295",
+    "controlUnitInvoiceNumber": "004024015000002382",
+    "traderSystemInvoiceNo": "KRAMW0042003039614975",
+    "invoiceDate": "2026-07-24",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "ARABUKO MULTI SOCIAL EVENTS GROUND"
+  },
+  {
+    "id": "296",
+    "controlUnitInvoiceNumber": "004027009000003721",
+    "traderSystemInvoiceNo": "KRAMW00420083198967549",
+    "invoiceDate": "2026-07-25",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "HELSINKI HOTEL NYAMIRA"
+  },
+  {
+    "id": "297",
+    "controlUnitInvoiceNumber": "004024009000004672",
+    "traderSystemInvoiceNo": "KRAMW00420308317856493",
+    "invoiceDate": "2026-07-25",
+   "totalTaxableAmount": "86,206.90",
+    "totalTaxAmount": "13,793.10",
+    "totalInvoiceAmount": "100,000.00",
+    "supplierName": "PALACINA HOTEL HOMABAY"
   }
   ]
