@@ -2868,5 +2868,55 @@
     "totalTaxAmount": "13,793.10",
     "totalInvoiceAmount": "100,000.00",
     "supplierName": "PALACINA HOTEL HOMABAY"
+  },
+    {
+    "id": "298",
+    "controlUnitInvoiceNumber": "0040240050010546",
+    "traderSystemInvoiceNo": "KRAMW00420019787564932",
+    "invoiceDate": "2025-09-16",
+   "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+      {
+    "id": "299",
+    "controlUnitInvoiceNumber": "00402400530006342",
+    "traderSystemInvoiceNo": "KRAMW00420019786740931",
+    "invoiceDate": "2025-09-11",
+   "totalTaxableAmount": "3,360.00",
+    "totalTaxAmount": "640.00",
+    "totalInvoiceAmount": "4,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+        {
+    "id": "300",
+    "controlUnitInvoiceNumber": "0040240050010126",
+    "traderSystemInvoiceNo": "KRAMW00420019756408218",
+    "invoiceDate": "2025-09-05",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+        {
+    "id": "301",
+    "controlUnitInvoiceNumber": "004024009000002357",
+    "traderSystemInvoiceNo": "KRAMW00420085640853",
+    "invoiceDate": "2025-09-29",
+    "totalTaxableAmount": "3,024.00",
+    "totalTaxAmount": "576.00",
+    "totalInvoiceAmount": "3,600.00",
+    "supplierName": "DIGITECH SUPPLIES"
+  },
+         {
+    "id": "302",
+    "controlUnitInvoiceNumber": "004024009000002537",
+    "traderSystemInvoiceNo": "KRAMW0042008318564021",
+    "invoiceDate": "2025-10-21",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "RUBIS FILLING STATION"
   }
   ]
