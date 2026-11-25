@@ -3009,4 +3009,144 @@
     "totalInvoiceAmount": "10,000.00",
     "supplierName": "TOTAL FILLING STATION"
   },
+   {
+    "id": "313",
+    "controlUnitInvoiceNumber": "0040240050008658",
+    "traderSystemInvoiceNo": "KRAMW00420019778563012",
+    "invoiceDate": "2026-10-23",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+     {
+    "id": "314",
+    "controlUnitInvoiceNumber": "0040240090000004363",
+    "traderSystemInvoiceNo": "KRAMW0042001875075439",
+    "invoiceDate": "2026-10-16",
+  "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "VIVO ENERGY"
+  },
+    {
+    "id": "315",
+    "controlUnitInvoiceNumber": "004024009000001894",
+    "traderSystemInvoiceNo": "KRAMW0042008317786956",
+    "invoiceDate": "2026-10-22",
+  "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "OLA ENERGY"
+  },
+      {
+    "id": "316",
+    "controlUnitInvoiceNumber": "0040240050003547",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-10-15",
+  "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+        {
+    "id": "317",
+    "controlUnitInvoiceNumber": "0040240050003547",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-10-15",
+  "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "VIVO ENERGY"
+  },
+          {
+    "id": "318",
+    "controlUnitInvoiceNumber": "0040240050007634",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-10-11",
+  "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "OLA ENERGY"
+  },
+        {
+    "id": "319",
+    "controlUnitInvoiceNumber": "0040240050003436",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-10-15",
+  "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "OLA ENERGY"
+  },
+         {
+    "id": "320",
+    "controlUnitInvoiceNumber": "0040240050002435",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-09-29",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "OLA ENERGY"
+  },
+           {
+    "id": "321",
+    "controlUnitInvoiceNumber": "0040240050002435",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-09-21",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "VIVO ENERGY"
+  },
+          {
+    "id": "322",
+    "controlUnitInvoiceNumber": "0040240050002548",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-11-18",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "VIVO ENERGY"
+  },
+          {
+    "id": "323",
+    "controlUnitInvoiceNumber": "0040240050005455",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-12-02",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "RUBIS"
+  },
+        {
+    "id": "324",
+    "controlUnitInvoiceNumber": "0040240050002782",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-11-03",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "OLA ENERGY"
+  },
+        {
+    "id": "325",
+    "controlUnitInvoiceNumber": "0040240050009873",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-11-03",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+       {
+    "id": "326",
+    "controlUnitInvoiceNumber": "0040240050009873",
+    "traderSystemInvoiceNo": "KRAMW00420019778867452",
+    "invoiceDate": "2026-11-03",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
   ]
