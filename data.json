@@ -2918,5 +2918,95 @@
     "totalTaxAmount": "1,600.00",
     "totalInvoiceAmount": "10,000.00",
     "supplierName": "RUBIS FILLING STATION"
-  }
+  },
+         {
+    "id": "303",
+    "controlUnitInvoiceNumber": "004024005001346",
+    "traderSystemInvoiceNo": "KRAMW00420019786745392",
+    "invoiceDate": "2026-11-18",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+           {
+    "id": "304",
+    "controlUnitInvoiceNumber": "004024005001274",
+    "traderSystemInvoiceNo": "KRAMW00420019786748754",
+    "invoiceDate": "2026-11-03",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+             {
+    "id": "305",
+    "controlUnitInvoiceNumber": "004024005001683",
+    "traderSystemInvoiceNo": "KRAMW00420019787649583",
+    "invoiceDate": "2026-11-03",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+           {
+    "id": "306",
+    "controlUnitInvoiceNumber": "004024009000004235",
+    "traderSystemInvoiceNo": "KRAMW00420075342098",
+    "invoiceDate": "2026-11-03",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+           {
+    "id": "307",
+    "controlUnitInvoiceNumber": "004024005006374",
+    "traderSystemInvoiceNo": "KRAMW00420019778756432",
+    "invoiceDate": "2026-10-23",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+          {
+    "id": "308",
+    "controlUnitInvoiceNumber": "004024009000001620",
+    "traderSystemInvoiceNo": "KRAMW0042008317425481",
+    "invoiceDate": "2026-10-23",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  }, 
+        {
+    "id": "309",
+    "controlUnitInvoiceNumber": "0040240090000003596",
+    "traderSystemInvoiceNo": "KRAMW0042001875078432",
+    "invoiceDate": "2026-10-11",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "VIVO ENERGY"
+  }, 
+      {
+    "id": "310",
+    "controlUnitInvoiceNumber": "004024005008764",
+    "traderSystemInvoiceNo": "KRAMW00420019778867523",
+    "invoiceDate": "2026-10-15",
+    "totalTaxableAmount": "4,200.00",
+    "totalTaxAmount": "800.00",
+    "totalInvoiceAmount": "5,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
+     {
+    "id": "311",
+    "controlUnitInvoiceNumber": "004024005006625",
+    "traderSystemInvoiceNo": "KRAMW00420019778564093",
+    "invoiceDate": "2026-09-29",
+    "totalTaxableAmount": "8,400.00",
+    "totalTaxAmount": "1,600.00",
+    "totalInvoiceAmount": "10,000.00",
+    "supplierName": "TOTAL FILLING STATION"
+  },
   ]
